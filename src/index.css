@@ -770,7 +770,7 @@ path {
   align-items: center;
   flex-direction: column;
   gap: 40px;
-  background: url(/src/assets/images/contact-bg.svg);
+  background: url(./assets/images/contact-bg.svg);
   background-repeat: no-repeat;
   background-size: 1500px 700px;
 }
