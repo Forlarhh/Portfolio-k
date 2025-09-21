@@ -377,9 +377,9 @@ path {
   color: greenyellow;
 }
 .role {
-  line-height: 95px;
-  font-size: 4rem;
-  margin: 5px;
+  line-height: 80px;
+  font-size: 5rem;
+  margin: 3px;
 }
 
 .resume-contact {
